@@ -1,0 +1,27 @@
+{
+  "name": "serverless-telegram-bot",
+  "version": "1.0.0",
+  "description": "Example repository for building a serverless telegram bot using node.js and google cloud functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recond/serverless-telegram-bot.git"
+  },
+  "keywords": [
+    "node",
+    "telegram",
+    "serverless"
+  ],
+  "author": "Asier Recondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recond/serverless-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/recond/serverless-telegram-bot#readme",
+  "dependencies": {
+    "telegraf": "^3.36.0"
+  }
+}
